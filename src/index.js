@@ -1,3 +1,3 @@
-let message = 'HELLO FROM TH FUCKING ENTRY BITCH!!!';
+let message = 'HELLO FROM THE MUTHAFUCKING ENTRY BITCH!!!';
 
 console.log(message);
